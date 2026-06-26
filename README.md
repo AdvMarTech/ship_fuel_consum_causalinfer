@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="figures/Figure_1_proposed_flowchart.jpg" width="850">
+  <img src="./Figure%201.%20The%20proposed%20flowchart%20of%20this%20study.jpg" width="850">
 </p>
